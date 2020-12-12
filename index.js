@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 
 let conn = null;
 
-const uri = 'ip-172-31-33-131.ec2.internal';
+const uri = 'mongodb+srv://ec2-user@172-31-33-131.ec2.internal';
 
 exports.handler = async function(event, context) {
   // Make sure to add this so you can re-use `conn` between function calls.
