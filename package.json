@@ -1,0 +1,22 @@
+{
+  "name": "asgm-mongoose-test",
+  "version": "1.0.0",
+  "description": "setup mongoose for Lambda AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reedtlr/mongoose-test.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reedtlr/mongoose-test/issues"
+  },
+  "homepage": "https://github.com/reedtlr/mongoose-test#readme",
+  "dependencies": {
+    "mongoose": "^5.11.7"
+  }
+}
